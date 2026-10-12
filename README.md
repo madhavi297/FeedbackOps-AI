@@ -60,7 +60,7 @@ Follow these step-by-step instructions to set up and run FeedbackOps AI on Windo
 ### Step 2: Clone or Open Directory
 Open Windows PowerShell and navigate to the project directory:
 ```powershell
-cd c:\Users\Madhavi\Downloads\feedbackops-ai
+https://github.com/madhavi297/FeedbackOps-AI.git
 ```
 
 ### Step 3: Install Python Dependencies
