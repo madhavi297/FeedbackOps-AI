@@ -1,0 +1,6 @@
+review_id,category,customer_name,source,review_text
+REV-101,E-Commerce App,Jessica Taylor,App Store Review,"The cart screen freezes every time I attempt to apply a discount coupon code during checkout. I missed out on the holiday sale because of this bug!"
+REV-102,SaaS Platform,Robert Chen,Support Ticket,"Our team account was charged twice for the annual plan renewal. We tried reaching billing support, but the ticket has been pending for 3 days."
+REV-103,Mobile App,Samantha Reed,Google Play Review,"Fantastic UI overhaul! The search filter speed is dramatically faster and saving favorite items is super intuitive now."
+REV-104,E-Commerce App,Michael Chang,NPS Survey,"Order tracking map links return 404 errors on iOS. Customers have no way to track delivery status."
+REV-105,SaaS Platform,Amanda Vance,Customer Email,"The PDF exporter generates blank documents when exporting financial reports larger than 50 pages."
